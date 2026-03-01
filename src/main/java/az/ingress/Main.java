@@ -10,4 +10,7 @@ public class Main {
     public static void main(){
         System.out.println("salam");
     }
+    public static void nezrin(){
+        System.out.println("Nezrin");
+    }
 }
